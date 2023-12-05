@@ -40,3 +40,6 @@ console.log(
   "partNumbers => ",
   partNumbers.reduce((acc, number) => acc + parseInt(number), 0)
 );
+
+// 539637
+// 82818007
